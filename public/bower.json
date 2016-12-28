@@ -1,0 +1,6 @@
+{
+  "name": "http-proxy-demo",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
